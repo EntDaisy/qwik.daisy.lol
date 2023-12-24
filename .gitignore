@@ -4,6 +4,7 @@
 /lib-types
 /server
 /tmp
+/drizzle
 
 # Development
 node_modules
@@ -21,7 +22,7 @@ logs
 pnpm-debug.log*
 
 # Editor
-.vscode/
+/.vscode
 
 .DS_Store
 ._*
