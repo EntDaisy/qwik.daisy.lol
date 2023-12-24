@@ -1,0 +1,30 @@
+# Build
+/dist
+/lib
+/lib-types
+/server
+/tmp
+
+# Development
+node_modules
+*.local
+
+# Cache
+.cache
+.mf
+.rollup.cache
+tsconfig.tsbuildinfo
+
+# Logs
+logs
+*.log
+pnpm-debug.log*
+
+# Editor
+.vscode/
+
+.DS_Store
+._*
+
+# Vercel
+.vercel
